@@ -1,0 +1,23 @@
+h1{
+	
+	color: #63372c;
+}
+
+p{
+	
+	color: #ffbcb5;
+}
+a {
+	color: purple;
+	font-size: 18px;
+}
+.vegetarian{
+	color: red;
+	font-family: arial;
+}
+.non-vegetarian{
+	color: blue;
+}
+#unique{
+	background-color: pink;
+}
